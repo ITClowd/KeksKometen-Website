@@ -22,7 +22,7 @@
   font-size: 14px;
 }
 .menu li:hover {
-  background: #FFA500;
+  background: #000000;
 }
 .menu > li > a {
   -webkit-transform: skewX(-25deg);

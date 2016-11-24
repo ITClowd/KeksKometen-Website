@@ -1,0 +1,17 @@
+body, html{
+    margin: 0;
+    font:1em "Open Sans", sans-serif;
+    color: white;
+    background-color: black;
+    height: 100%
+}
+
+.content {
+    width: 70%;
+    align-content: center;
+    margin: 0 auto;
+    padding: 30px;
+    background-color: white;
+    color: black;
+    min-height: 100%;    
+}

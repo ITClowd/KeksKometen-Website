@@ -1,11 +1,14 @@
-<!DOCTYPE html>
+<?php
+header("Content-Type: text/html; Charset=utf-8");
+?>
 <html>
     <head>
         <title>KeksKometen</title>
         <meta lang="de">
         <meta name="author" content="KeksKometen">
-        <link rel="stylesheet" href="css/stylesheet_basic.css">
-        <link rel="stylesheet" href="css/stylesheet_menu.css">
+        <link href="css/stylesheet_menu.css" rel="stylesheet" type="text/css" media="all" />
+        <link href="css/stylesheet_basic.css" rel="stylesheet" type="text/css" media="all" />
+        <meta charset="UTF-8">
         <link href="https://fonts.googleapis.com/css?family=Slabo+27px" rel="stylesheet"> 
     </head>
     <body>

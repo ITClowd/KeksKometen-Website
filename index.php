@@ -12,17 +12,17 @@ header("Content-Type: text/html; Charset=utf-8");
         <link href="https://fonts.googleapis.com/css?family=Slabo+27px" rel="stylesheet"> 
     </head>
     <body>
-    <ul class="menu cf">
-    <li>
-        <a href="index.php">Home</a>
-    </li>
-    <li>
-        <a href="">Server</a>
-        <ul class="submenu">
-        <li><a href="123.php">kaka</a></li>
-        <li><a href="123.php">kaka</a></li>
-        </ul>
-    </li>
+        <ul class="menu cf">
+            <li>
+                <a href="index.php">Home</a>
+            </li>
+            <li>
+                <a href="">Server</a>
+                <ul class="submenu">
+                <li><a href="123.php">kaka</a></li>
+                <li><a href="123.php">kaka</a></li>
+                </ul>
+            </li>
         </ul>
         <div class="content">
             <h1>Die KeksKometen</h1>

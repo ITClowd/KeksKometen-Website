@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <title>KeksKometen</title>
         <meta lang="de">
         <meta name="author" content="KeksKometen">
         <link rel="stylesheet" href="css/stylesheet_basic.css">

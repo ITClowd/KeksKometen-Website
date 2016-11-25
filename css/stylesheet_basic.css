@@ -1,6 +1,6 @@
 body, html{
     margin: 0;
-    font:1em "Open Sans", sans-serif;
+    font-family: 'Slabo 27px', serif;
     color: white;
     background-color: black;
     height: 100%
@@ -14,15 +14,27 @@ body, html{
     background-color: white;
     color: black;
     min-height: 100%;
+    
+    -webkit-box-shadow: inset 0px 0px 15px -2px rgba(0,0,0,0.75);
+    -moz-box-shadow: inset 0px 0px 15px -2px rgba(0,0,0,0.75);
+    box-shadow: inset 0px 0px 15px -2px rgba(0,0,0,0.75);
 }
 
 .content p {
     margin: 0;
 }
 
+.content h1 {
+    text-align: center;
+    text-shadow: 4px 4px 2px rgba(150, 150, 150, 1);
+}
+
 .image-box {
     height: auto;
     width: 250px;
+    
+    color: grey;
+    font-style: italic;
     
     position: relative;
     display: inline-block;

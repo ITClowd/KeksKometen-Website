@@ -28,5 +28,10 @@ header("Content-Type: text/html; Charset=utf-8");
             <h1>Die KeksKometen</h1>
             <div class="image-box"><img src="images/test.png">Dies ist ein wunderschönes bild und ich teste etwas</div>
         </div>
+        <div class="footer">
+        
+            © 2016 KeksKometen
+            
+        </div>
     </body>
 </html>

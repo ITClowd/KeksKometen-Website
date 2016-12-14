@@ -1,6 +1,4 @@
-<?php
-header("Content-Type: text/html; Charset=utf-8");
-?>
+<?php header("Content-Type: text/html; Charset=utf-8");?>
 <html>
     <head>
         <title>KeksKometen</title>
@@ -14,13 +12,12 @@ header("Content-Type: text/html; Charset=utf-8");
     <body>
         <ul class="menu cf">
             <li>
-                <a href="index.php">Home</a>
+                <a href="">Home</a>
             </li>
             <li>
-                <a href="">Server</a>
+                <a href="">Projects</a>
                 <ul class="submenu">
-                <li><a href="123.php">kaka</a></li>
-                <li><a href="123.php">kaka</a></li>
+                <li><a href="Drohne/">Drohe</a></li>
                 </ul>
             </li>
         </ul>
@@ -29,9 +26,7 @@ header("Content-Type: text/html; Charset=utf-8");
             <div class="image-box"><img src="images/test.png">Dies ist ein wunderschönes bild und ich teste etwas</div>
         </div>
         <div class="footer">
-        
-            © 2016 KeksKometen
-            
+            © 2016 KeksKometen            
         </div>
     </body>
 </html>

@@ -17,6 +17,9 @@
                 <a href="index.php">Home</a>
             </li>
             <li>
+                <a href="info.php">Informationen</a>
+            </li>
+            <li>
                 <a href="">Projects</a>
                 <ul class="submenu">
                     <li><a href="Drohne.php">Drohe</a></li>
